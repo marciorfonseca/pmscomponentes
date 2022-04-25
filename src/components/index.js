@@ -1,0 +1,1 @@
+export { default as PmsTables } from "./PmsTable.vue"
